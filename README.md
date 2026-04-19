@@ -2,6 +2,8 @@
 
 รับข้อมูลจาก Arduino ผ่าน Serial บนเครื่อง Host ส่งเข้า Docker Container แปลงข้อมูล แล้วแสดงผลเป็นกราฟ Real-time
 
+![Real-time Plot Demo](Screenshot%202569-04-19%20at%2012.18.18.png)
+
 ---
 
 ## Architecture
